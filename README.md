@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there
 
 <!--
 **DeliaCerecedo/DeliaCerecedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,13 +15,61 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![presentación](/presentación.png)
+<code><img height="300" src="https://user-images.githubusercontent.com/109125203/200173974-8f392b43-b7c6-4e79-bb6d-7589779101b6.png"></code>
 
-## Contacto:
+<hr></hr>
 
-![image](https://user-images.githubusercontent.com/109125203/200153016-05ae7342-c777-414f-9915-8936c7097425.png) +52 1 55 6702 9255
+### CONTACTO:
 
-<p> ![whatsapp (1)](https://user-images.githubusercontent.com/109125203/200170466-8bc3223e-df47-4d45-906a-e11d44df125f.png)
- ![whatsapp(1)](/whatsapp(1).png) </p>
-
+![whatsapp](https://user-images.githubusercontent.com/109125203/200171559-ff5c5a31-bd4e-4bc3-9c34-ab96c9f14d59.png) +52 1 55 6702 9255 (sólo whatsapp) <br>
+![gmail](https://user-images.githubusercontent.com/109125203/200171400-0d112560-bb2a-42db-9787-72a205861c91.png) dhdiaz1971@gmail.com <br>
+![mapa](https://user-images.githubusercontent.com/109125203/200171945-f73d4270-0a42-4f86-b6eb-c898dbe87d9b.png) CDMX, México <br>
 <a href="https://www.linkedin.com/in/deliadiaz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+
+<hr></hr>
+
+### SOBRE MI:
+
+Soy mujer apasionada por crear soluciones de forma eficaz y eficiente para ayudar a personas. Por eso hice un
+doctorado con la especialidad en Ingeniería Biomédica donde realicé investigación que ayudará, principalmente, a
+personas de la tercera edad y/o discapacitados. Otra pasión en mi vida es transmitir el conocimiento y experiencias
+adquiridas a nuevas generaciones para que ellos aprovechen esa ventaja en pro de la humanidad, por lo que dediqué
+varios años de mi vida a la docencia donde aprendí de ellos a maravillarme y alegrarme por los primeros pasos al
+adquirir nuevo conocimiento. Ahora como Desarrolladora Front-end desarrollaré soluciones adecuadas a las
+necesidades de los usuarios con tanta pasión como lo hice en el pasado aplicando las habilidades adquiridas a lo largo
+de los años como investigadora y docente.
+
+<hr></hr>
+
+### EDUCACIÓN:
+
+- SEO (Actualmente) <br> 
+  BigSeo Academy <br>
+  Barcelona, España
+  
+- Front-End Developer <br> 
+  Laboratoria Bootcamp <br> 
+  CDMX, México
+  
+- Doctorado en Ingeniería Electrónica <br>
+  Pasante <br>
+  Universidad Politécnica de Cataluña <br>
+  Barcelona, España
+  
+<hr></hr>
+  
+### HABILIDADES TÉCNICAS:
+
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)   
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-1572B6?style=flat&logo=css3&logoColor=white)   
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)   
+![GitHub](https://img.shields.io/badge/Github-ffca28?style=flat&logo=firebase&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-323330?style=flat&logo=javascript&logoColor=F7DF1E)   
+![Figma](https://img.shields.io/badge/Figma-E34F26?style=flat&logo=html5&logoColor=white)  
+
+### HABILIDADES:
+
+
