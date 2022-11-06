@@ -64,12 +64,21 @@ de los años como investigadora y docente.
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)   
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-1572B6?style=flat&logo=css3&logoColor=white)   
+![Git](https://img.shields.io/badge/Git-1572B6?style=flat&logo=git&logoColor=white)   
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)   
-![GitHub](https://img.shields.io/badge/Github-ffca28?style=flat&logo=firebase&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-323330?style=flat&logo=javascript&logoColor=F7DF1E)   
-![Figma](https://img.shields.io/badge/Figma-E34F26?style=flat&logo=html5&logoColor=white)  
+![GitHub](https://img.shields.io/badge/Github-ffca28?style=flat&logo=Github&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-323330?style=flat&logo=node.js&logoColor=F7DF1E)   
+![Figma](https://img.shields.io/badge/Figma-E34F26?style=flat&logo=figma&logoColor=white)  
 
 ### HABILIDADES:
 
+![Autoaprendizaje](https://img.shields.io/badge/Autoaprendizaje-323330?style=F7DF1E)  
+![Adaptabilidad](https://img.shields.io/badge/Adaptabilidad-E34F26?style=white)  
+![Pensamiento Crítico](https://img.shields.io/badge/Pensamiento_Crítico-1572B6?style=white)   
+![Scrum](https://img.shields.io/badge/Scrum-ffca28?style=black)  
+![Solucipon de Problemas](https://img.shields.io/badge/Solucipon_de_Problemas-1572B6?style=white)   
+![Planificación y Organización](https://img.shields.io/badge/Planificación_y_Organización-F24E1E?style=white)   
+![Comunicación](https://img.shields.io/badge/Comunicación-ffca28?style=black)  
+![Adaptabilidad](https://img.shields.io/badge/Adaptabilidad-323330?style=F7DF1E)   
+![Trabajo en Equipo](https://img.shields.io/badge/Trabajo_en_Equipo-E34F26?style=white) 
 
