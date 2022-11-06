@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ![whatsapp](https://user-images.githubusercontent.com/109125203/200171559-ff5c5a31-bd4e-4bc3-9c34-ab96c9f14d59.png) +52 1 55 6702 9255 (sólo whatsapp) <br>
 ![gmail](https://user-images.githubusercontent.com/109125203/200171400-0d112560-bb2a-42db-9787-72a205861c91.png) dhdiaz1971@gmail.com <br>
-![mapa](https://user-images.githubusercontent.com/109125203/200171945-f73d4270-0a42-4f86-b6eb-c898dbe87d9b.png) CDMX, México <br>
-<a href="https://www.linkedin.com/in/deliadiaz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/deliadiaz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><br>
+![mapa](https://user-images.githubusercontent.com/109125203/200171945-f73d4270-0a42-4f86-b6eb-c898dbe87d9b.png) CDMX, México 
 
 <hr></hr>
 
