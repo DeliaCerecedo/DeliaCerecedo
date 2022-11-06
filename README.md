@@ -82,3 +82,24 @@ de los años como investigadora y docente.
 ![Adaptabilidad](https://img.shields.io/badge/Adaptabilidad-323330?style=F7DF1E)   
 ![Trabajo en Equipo](https://img.shields.io/badge/Trabajo_en_Equipo-E34F26?style=white) 
 
+### EXPERIENCIA LABORAL: ![graduacion](https://user-images.githubusercontent.com/109125203/200178223-22cb41a9-ddc5-4682-8523-767e9d74dfc7.png)
+
+- Docente nivel superior y medio superior <br>
+  Universidad de La Salle<br>
+  Universidad Tecnológica de México<br>
+  Universidad Tec-Milenio<br>
+  Materias impartidas nivel superior en Ingeniería Electrónica, Eléctrica, Mecatrónica, Biomédica y Sistemas.<br>
+  Materias impartidas nivel medio superior en Departamento de Matemáticas.<br>
+  Las habilidades adquiridas fueron: manejo de grupo, planeación y organización, comunicación, creación de material didáctico, solución de problemas,           pensamiento crítico.
+
+### PRODUCTIVIDAD CIENTÍFICA Y ACADÉMICA: ![literatura-cientifica](https://user-images.githubusercontent.com/109125203/200178874-a68f7e6d-adcf-4beb-9e4d-83f460c2f8ee.png)
+
+- Patentes, Congresos Internacionales y Artículos Publicados<br>
+  Universidad Politécnica de Cataluña<br>
+  Barcelona, España<br>
+    - Patentes en España.<br>
+    - Artículos a Congresos Internacionales.<br> 
+    - Artículo a revista científica. <br>
+  
+  Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resolver problemas,  trabajar en equipo e individualmente, autoaprendizaje,          liderazgo, adaptabilidad, exposición de artículos científicos en Congresos Internacionales ante expertos. 
+
