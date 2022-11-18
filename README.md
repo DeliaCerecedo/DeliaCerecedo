@@ -106,34 +106,34 @@ de los años como investigadora y docente.
     - Artículos a Congresos Internacionales.<br> 
     - Artículo a revista científica. <br>
   
-  Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resolver problemas,  trabajar en equipo e individualmente, autoaprendizaje,          liderazgo, adaptabilidad, exposición de artículos científicos en Congresos Internacionales ante expertos. 
+  Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resolver problemas,  trabajar en equipo e individualmente, autoaprendizaje, liderazgo, adaptabilidad, exposición de artículos científicos en Congresos Internacionales ante expertos. 
 
 <hr></hr>
 
 ### 📊 GitHub Stats:  
-  
-<a href="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=lgolia&hide_border=false&include_all_commits=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
+
+<a href="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=aura&hide_border=false&include_all_commits=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DeliaCerecedo&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeliaCerecedo&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width= "400"/>
 </a>
 
 <hr></hr>
 
 ### 🗂️ Repositorios:
 
-<a href="https://github.com/Liz2208/CDMX013-md-links">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Liz2208&repo=CDMX013-md-links&theme=algolia" />
-</a>                                                              
-
-<a href="https://github.com/Liz2208/CDMX013-social-network-PartyGirls.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Liz2208&repo=CDMX013-social-network-PartyGirls&theme=algolia" />
-</a>                                                           
-
-<a href="https://github.com/Liz2208/CDMX013-data-lovers-frias-jimenez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Liz2208&repo=CDMX013-data-lovers-jimenez&theme=algolia" />
-</a>                                                                
-
-<a href="https://github.com/Liz2208/ProyecLiz-Cipher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Liz2208&repo=ProyecLiz-Cipher&theme=algolia" />                               
+<a href="https://github.com/DeliaCerecedo/Md-Links">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Md-Links&theme=aura" />
+</a>
+<a href="https://github.com/DeliaCerecedo/Social-Network">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Social-Network&theme=aura" />
+</a>
+<a href="https://github.com/DeliaCerecedo/Data-Lovers-Principal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Data-Lovers-Principal&theme=aura" />
+</a>
+<a href="https://github.com/DeliaCerecedo/Cifrado-Cesar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Cifrado-Cesar&theme=aura" />
 </a>
 
 
