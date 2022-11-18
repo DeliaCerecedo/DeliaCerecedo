@@ -40,7 +40,7 @@ de los años como investigadora y docente.
 
 <hr></hr>
 
-### ![200178223-22cb41a9-ddc5-4682-8523-767e9d74dfc7](https://user-images.githubusercontent.com/109125203/202804559-bd843aa5-0b97-4b78-afb6-fe6c0a2c58a9.png) EDUCATION:
+### ![200178223-22cb41a9-ddc5-4682-8523-767e9d74dfc7](https://user-images.githubusercontent.com/109125203/202804559-bd843aa5-0b97-4b78-afb6-fe6c0a2c58a9.png)   EDUCATION:
 
 - SEO (Actualmente) <br> 
   BigSeo Academy <br>
@@ -67,7 +67,9 @@ de los años como investigadora y docente.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)   
 ![GitHub](https://img.shields.io/badge/Github-ffca28?style=flat&logo=Github&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-323330?style=flat&logo=node.js&logoColor=F7DF1E)   
-![Figma](https://img.shields.io/badge/Figma-E34F26?style=flat&logo=figma&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-E34F26?style=flat&logo=figma&logoColor=white) 
+
+<hr></hr>
 
 ### SKILLS:
 
@@ -81,6 +83,8 @@ de los años como investigadora y docente.
 ![Adaptabilidad](https://img.shields.io/badge/Adaptabilidad-323330?style=F7DF1E)   
 ![Trabajo en Equipo](https://img.shields.io/badge/Trabajo_en_Equipo-E34F26?style=white) 
 
+<hr></hr>
+
 ### WORK EXPERIENCE: 
 
 - Docente nivel superior y medio superior <br>
@@ -90,8 +94,10 @@ de los años como investigadora y docente.
   Materias impartidas nivel superior en Ingeniería Electrónica, Eléctrica, Mecatrónica, Biomédica y Sistemas.<br>
   Materias impartidas nivel medio superior en Departamento de Matemáticas.<br>
   Las habilidades adquiridas fueron: manejo de grupo, planeación y organización, comunicación, creación de material didáctico, solución de problemas,           pensamiento crítico.
+  
+  <hr></hr>
 
-### ![200178874-a68f7e6d-adcf-4beb-9e4d-83f460c2f8ee](https://user-images.githubusercontent.com/109125203/202804680-f1278f47-8915-4b8e-9353-fdff827472c9.png) SCIENTIFIC AND ACADEMIC PRODUCTIVITY: 
+### ![200178874-a68f7e6d-adcf-4beb-9e4d-83f460c2f8ee](https://user-images.githubusercontent.com/109125203/202804680-f1278f47-8915-4b8e-9353-fdff827472c9.png)   SCIENTIFIC AND ACADEMIC PRODUCTIVITY: 
 
 - Patentes, Congresos Internacionales y Artículos Publicados<br>
   Universidad Politécnica de Cataluña<br>
@@ -101,16 +107,33 @@ de los años como investigadora y docente.
     - Artículo a revista científica. <br>
   
   Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resolver problemas,  trabajar en equipo e individualmente, autoaprendizaje,          liderazgo, adaptabilidad, exposición de artículos científicos en Congresos Internacionales ante expertos. 
-  
-  
-  
-  <a href="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=lgolia&hide_border=false&include_all_commits=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
 
+<hr></hr>
+
+### 📊 GitHub Stats:  
+  
+<a href="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=lgolia&hide_border=false&include_all_commits=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
 </a>
 
-<a href="https://github.com/DeliaCerecedo/CDMX013-md-links">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=CDMX013-md-links&theme=cobalt" />
+<hr></hr>
+
+### 🗂️ Repositorios:
+
+<a href="https://github.com/Liz2208/CDMX013-md-links">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Liz2208&repo=CDMX013-md-links&theme=algolia" />
+</a>                                                              
+
+<a href="https://github.com/Liz2208/CDMX013-social-network-PartyGirls.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Liz2208&repo=CDMX013-social-network-PartyGirls&theme=algolia" />
+</a>                                                           
+
+<a href="https://github.com/Liz2208/CDMX013-data-lovers-frias-jimenez">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Liz2208&repo=CDMX013-data-lovers-jimenez&theme=algolia" />
+</a>                                                                
+
+<a href="https://github.com/Liz2208/ProyecLiz-Cipher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Liz2208&repo=ProyecLiz-Cipher&theme=algolia" />                               
 </a>
 
 
