@@ -101,4 +101,12 @@ de los años como investigadora y docente.
     - Artículo a revista científica. <br>
   
   Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resolver problemas,  trabajar en equipo e individualmente, autoaprendizaje,          liderazgo, adaptabilidad, exposición de artículos científicos en Congresos Internacionales ante expertos. 
+  
+  
+  
+  <a href="https://github-readme-stats.vercel.app/api?username=Liz2208&theme=algolia&hide_border=false&include_all_commits=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Liz2208&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
+
+</a>
+
 
