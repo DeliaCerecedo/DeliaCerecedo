@@ -40,7 +40,7 @@ de los años como investigadora y docente.
 
 <hr></hr>
 
-### EDUCATION:
+### ![200178223-22cb41a9-ddc5-4682-8523-767e9d74dfc7](https://user-images.githubusercontent.com/109125203/202804559-bd843aa5-0b97-4b78-afb6-fe6c0a2c58a9.png) EDUCATION:
 
 - SEO (Actualmente) <br> 
   BigSeo Academy <br>
@@ -81,7 +81,7 @@ de los años como investigadora y docente.
 ![Adaptabilidad](https://img.shields.io/badge/Adaptabilidad-323330?style=F7DF1E)   
 ![Trabajo en Equipo](https://img.shields.io/badge/Trabajo_en_Equipo-E34F26?style=white) 
 
-### EXPERIENCIA LABORAL: ![graduacion](https://user-images.githubusercontent.com/109125203/200178223-22cb41a9-ddc5-4682-8523-767e9d74dfc7.png)
+### WORK EXPERIENCE: 
 
 - Docente nivel superior y medio superior <br>
   Universidad de La Salle<br>
@@ -91,7 +91,7 @@ de los años como investigadora y docente.
   Materias impartidas nivel medio superior en Departamento de Matemáticas.<br>
   Las habilidades adquiridas fueron: manejo de grupo, planeación y organización, comunicación, creación de material didáctico, solución de problemas,           pensamiento crítico.
 
-### PRODUCTIVIDAD CIENTÍFICA Y ACADÉMICA: ![literatura-cientifica](https://user-images.githubusercontent.com/109125203/200178874-a68f7e6d-adcf-4beb-9e4d-83f460c2f8ee.png)
+### ![200178874-a68f7e6d-adcf-4beb-9e4d-83f460c2f8ee](https://user-images.githubusercontent.com/109125203/202804680-f1278f47-8915-4b8e-9353-fdff827472c9.png) SCIENTIFIC AND ACADEMIC PRODUCTIVITY: 
 
 - Patentes, Congresos Internacionales y Artículos Publicados<br>
   Universidad Politécnica de Cataluña<br>
