@@ -104,8 +104,8 @@ de los años como investigadora y docente.
   
   
   
-  <a href="https://github-readme-stats.vercel.app/api?username=Liz2208&theme=algolia&hide_border=false&include_all_commits=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Liz2208&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=lgolia&hide_border=false&include_all_commits=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
 
 </a>
 
