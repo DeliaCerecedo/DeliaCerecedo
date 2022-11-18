@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <hr></hr>
 
-### CONTACTO:
+### 🙋🏻‍♀️  YOU CAN FIND ME 👩🏽‍💻:
 
 ![gmail](https://user-images.githubusercontent.com/109125203/200171400-0d112560-bb2a-42db-9787-72a205861c91.png) dhdiaz1971@gmail.com <br>
 <a href="https://www.linkedin.com/in/deliadiaz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><br>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <hr></hr>
 
-### SOBRE MI:
+### ABOUT ME:
 
 Soy mujer apasionada por crear soluciones de forma eficaz y eficiente para ayudar a personas. Por eso hice un
 doctorado con la especialidad en Ingeniería Biomédica donde realicé investigación que ayudará, principalmente, a
@@ -40,7 +40,7 @@ de los años como investigadora y docente.
 
 <hr></hr>
 
-### EDUCACIÓN:
+### EDUCATION:
 
 - SEO (Actualmente) <br> 
   BigSeo Academy <br>
@@ -56,8 +56,8 @@ de los años como investigadora y docente.
   Barcelona, España
   
 <hr></hr>
-  
-### HABILIDADES TÉCNICAS:
+
+### TECHNICAL SKILLS:
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
@@ -69,7 +69,7 @@ de los años como investigadora y docente.
 ![Node.js](https://img.shields.io/badge/Node.js-323330?style=flat&logo=node.js&logoColor=F7DF1E)   
 ![Figma](https://img.shields.io/badge/Figma-E34F26?style=flat&logo=figma&logoColor=white)  
 
-### HABILIDADES:
+### SKILLS:
 
 ![Autoaprendizaje](https://img.shields.io/badge/Autoaprendizaje-323330?style=F7DF1E)  
 ![Adaptabilidad](https://img.shields.io/badge/Adaptabilidad-E34F26?style=white)  
