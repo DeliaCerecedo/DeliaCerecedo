@@ -41,7 +41,7 @@ de los años como investigadora y docente.
 
 💻 Estoy abierta a colaborar en proyectos que tengan impacto social.
 
-👓 ¡Me encanta aprender cosas nuevas!! Actualmente estoy aprendiendo Nodo y Reac 
+👓 ¡Me encanta aprender cosas nuevas!! Actualmente estoy aprendiendo Nodo y React 
 
 🏢 Actualmente estoy buscando una oportunidad de trabajo 🙌 
 
@@ -118,6 +118,19 @@ Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resol
 
 <hr></hr>
 
+<!--
+### 👇 PROYECTOS EN GITHUB PAGES 👇
+  
+  🔹 [Grow](https://social-network-grow.web.app/wall)
+
+  🔸 [Rick & Morty DataLovers](https://marianrav.github.io/CDMX013-data-lovers/)
+
+  🔹 [Cipher](https://blindmessage-cipher-marian-lab-mex013.netlify.app/)
+
+
+<hr></hr>
+-->
+
 ### 📊 GITHUB STATS:  
 
 <a href="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=react&hide_border=false&include_all_commits=true&count_private=true">
@@ -140,8 +153,8 @@ Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resol
 <a href="https://github.com/DeliaCerecedo/Social-Network">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Social-Network&theme=react" />
 </a>
-<a href="https://github.com/DeliaCerecedo/Data-Lovers-Principal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Data-Lovers-Principal&theme=react" />
+<a href="https://github.com/DeliaCerecedo/Data-Lovers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Data-Lovers&theme=react" />
 </a>
 <a href="https://github.com/DeliaCerecedo/Cifrado-Cesar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Cifrado-Cesar&theme=react" />
