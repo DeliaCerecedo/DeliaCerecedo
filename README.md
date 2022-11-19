@@ -71,7 +71,7 @@ de los años como investigadora y docente.
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)   
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-1572B6?style=flat&logo=git&logoColor=white)   
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)   
+![React](https://img.shields.io/badge/React-F24E1E?style=flat&logo=react&logoColor=white)   
 ![GitHub](https://img.shields.io/badge/Github-ffca28?style=flat&logo=Github&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-323330?style=flat&logo=node.js&logoColor=F7DF1E)   
 ![Figma](https://img.shields.io/badge/Figma-E34F26?style=flat&logo=figma&logoColor=white) 
