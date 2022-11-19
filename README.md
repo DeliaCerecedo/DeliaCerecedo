@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <hr></hr>
 
-### 🙋🏻‍♀️  YOU CAN FIND ME:
+### 🙋🏻‍♀️  CONTACTO:
 
 ![gmail](https://user-images.githubusercontent.com/109125203/200171400-0d112560-bb2a-42db-9787-72a205861c91.png) dhdiaz1971@gmail.com <br>
 <a href="https://www.linkedin.com/in/deliadiaz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><br>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <hr></hr>
 
-### 👩🏽‍💻 ABOUT ME:
+### 👩🏽‍💻 SOBRE MI:
 
 Soy mujer apasionada por crear soluciones de forma eficaz y eficiente para ayudar a personas. Por eso hice un
 doctorado con la especialidad en Ingeniería Biomédica donde realicé investigación que ayudará, principalmente, a
@@ -38,9 +38,16 @@ adquirir nuevo conocimiento. Ahora como Desarrolladora Front-end desarrollaré s
 necesidades de los usuarios con tanta pasión como lo hice en el pasado aplicando las habilidades adquiridas a lo largo
 de los años como investigadora y docente.
 
+
+💻 Estoy abierta a colaborar en proyectos que tengan impacto social.
+
+👓 ¡Me encanta aprender cosas nuevas!! Actualmente estoy aprendiendo Nodo y Reac 
+
+🏢 Actualmente estoy buscando una oportunidad de trabajo 🙌 
+
 <hr></hr>
 
-### ![200178223-22cb41a9-ddc5-4682-8523-767e9d74dfc7](https://user-images.githubusercontent.com/109125203/202804559-bd843aa5-0b97-4b78-afb6-fe6c0a2c58a9.png)   EDUCATION:
+### ![200178223-22cb41a9-ddc5-4682-8523-767e9d74dfc7](https://user-images.githubusercontent.com/109125203/202804559-bd843aa5-0b97-4b78-afb6-fe6c0a2c58a9.png)   EDUCACIÓN:
 
 - SEO (Actualmente) <br> 
   BigSeo Academy <br>
@@ -57,7 +64,7 @@ de los años como investigadora y docente.
   
 <hr></hr>
 
-### TECHNICAL SKILLS:
+### HABILIDADES TÉCNICAS:
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
@@ -71,7 +78,7 @@ de los años como investigadora y docente.
 
 <hr></hr>
 
-### SKILLS:
+### HABILIDADES:
 
 ![Autoaprendizaje](https://img.shields.io/badge/Autoaprendizaje-323330?style=F7DF1E)  
 ![Adaptabilidad](https://img.shields.io/badge/Adaptabilidad-E34F26?style=white)  
@@ -85,7 +92,7 @@ de los años como investigadora y docente.
 
 <hr></hr>
 
-### WORK EXPERIENCE: 
+### EXPERIENCIA LABORAL: 
 
 - Docente nivel superior y medio superior <br>
     - Universidad de La Salle<br>
@@ -111,7 +118,7 @@ Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resol
 
 <hr></hr>
 
-### 📊 GitHub Stats:  
+### 📊 GITHUB STATS:  
 
 <a href="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=react&hide_border=false&include_all_commits=true&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=react&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
@@ -122,7 +129,7 @@ Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resol
 
 <hr></hr>
 
-### 🗂️ Repositorios:
+### 🗂️ REPOSITORIOS:
 
 <a href="https://github.com/DeliaCerecedo/Notes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Notes&theme=react" />
