@@ -113,8 +113,8 @@ Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resol
 
 ### 📊 GitHub Stats:  
 
-<a href="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=aura&hide_border=false&include_all_commits=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
+<a href="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=react&hide_border=false&include_all_commits=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=react&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DeliaCerecedo&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeliaCerecedo&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width= "400"/>
@@ -125,19 +125,19 @@ Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resol
 ### 🗂️ Repositorios:
 
 <a href="https://github.com/DeliaCerecedo/Notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Notes&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Notes&theme=react" />
 </a>
 <a href="https://github.com/DeliaCerecedo/Md-Links">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Md-Links&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Md-Links&theme=react" />
 </a>
 <a href="https://github.com/DeliaCerecedo/Social-Network">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Social-Network&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Social-Network&theme=react" />
 </a>
 <a href="https://github.com/DeliaCerecedo/Data-Lovers-Principal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Data-Lovers-Principal&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Data-Lovers-Principal&theme=react" />
 </a>
 <a href="https://github.com/DeliaCerecedo/Cifrado-Cesar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Cifrado-Cesar&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Cifrado-Cesar&theme=react" />
 </a>
 
 
