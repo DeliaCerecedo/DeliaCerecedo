@@ -145,13 +145,13 @@ Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resol
 ### 🗂️ REPOSITORIOS:
 
 <a href="https://github.com/DeliaCerecedo/Notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Notes&theme=react"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Notes&theme=react" width="300"/>
 </a>
 <a href="https://github.com/DeliaCerecedo/Md-Links">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Md-Links&theme=react"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Md-Links&theme=react" widht="350"/>
 </a>
 <a href="https://github.com/DeliaCerecedo/Social-Network">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Social-Network&theme=react"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Social-Network&theme=react" width="400"/>
 </a>
 <a href="https://github.com/DeliaCerecedo/Data-Lovers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Data-Lovers&theme=react"/>
