@@ -117,7 +117,7 @@ Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resol
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=react&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DeliaCerecedo&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeliaCerecedo&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width= "400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeliaCerecedo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width= "400"/>
 </a>
 
 <hr></hr>
