@@ -88,12 +88,13 @@ de los años como investigadora y docente.
 ### WORK EXPERIENCE: 
 
 - Docente nivel superior y medio superior <br>
-  Universidad de La Salle<br>
-  Universidad Tecnológica de México<br>
-  Universidad Tec-Milenio<br>
-  Materias impartidas nivel superior en Ingeniería Electrónica, Eléctrica, Mecatrónica, Biomédica y Sistemas.<br>
-  Materias impartidas nivel medio superior en Departamento de Matemáticas.<br>
-  Las habilidades adquiridas fueron: manejo de grupo, planeación y organización, comunicación, creación de material didáctico, solución de problemas,           pensamiento crítico.
+    - Universidad de La Salle<br>
+    - Universidad Tecnológica de México<br>
+    - Universidad Tec-Milenio<br>
+    
+Materias impartidas nivel superior en Ingeniería Electrónica, Eléctrica, Mecatrónica, Biomédica y Sistemas.<br>
+Materias impartidas nivel medio superior en Departamento de Matemáticas.<br>
+Las habilidades adquiridas fueron: manejo de grupo, planeación y organización, comunicación, creación de material didáctico, solución de problemas, pensamiento crítico.
   
   <hr></hr>
 
@@ -106,7 +107,7 @@ de los años como investigadora y docente.
     - Artículos a Congresos Internacionales.<br> 
     - Artículo a revista científica. <br>
   
-  Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resolver problemas,  trabajar en equipo e individualmente, autoaprendizaje, liderazgo, adaptabilidad, exposición de artículos científicos en Congresos Internacionales ante expertos. 
+Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resolver problemas,  trabajar en equipo e individualmente, autoaprendizaje, liderazgo, adaptabilidad, exposición de artículos científicos en Congresos Internacionales ante expertos. 
 
 <hr></hr>
 
