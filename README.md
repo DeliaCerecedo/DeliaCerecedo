@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <hr></hr>
 
-### 🙋🏻‍♀️  YOU CAN FIND ME 👩🏽‍💻:
+### 🙋🏻‍♀️  YOU CAN FIND ME:
 
 ![gmail](https://user-images.githubusercontent.com/109125203/200171400-0d112560-bb2a-42db-9787-72a205861c91.png) dhdiaz1971@gmail.com <br>
 <a href="https://www.linkedin.com/in/deliadiaz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><br>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <hr></hr>
 
-### ABOUT ME:
+### 👩🏽‍💻 ABOUT ME:
 
 Soy mujer apasionada por crear soluciones de forma eficaz y eficiente para ayudar a personas. Por eso hice un
 doctorado con la especialidad en Ingeniería Biomédica donde realicé investigación que ayudará, principalmente, a
