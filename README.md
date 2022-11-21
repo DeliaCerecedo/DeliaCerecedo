@@ -146,7 +146,7 @@ Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resol
 ### 🗂️ REPOSITORIOS:
 
 <a href="https://github.com/DeliaCerecedo/Notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Notes&theme=transparent"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Notes&theme=solarized-dark"/>
 </a>
 <a href="https://github.com/DeliaCerecedo/Md-Links">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Md-Links&theme=react"/>
