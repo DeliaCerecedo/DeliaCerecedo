@@ -105,7 +105,7 @@ Las habilidades adquiridas fueron: manejo de grupo, planeación y organización,
   
   <hr></hr>
 
-### ![200178874-a68f7e6d-adcf-4beb-9e4d-83f460c2f8ee](https://user-images.githubusercontent.com/109125203/202804680-f1278f47-8915-4b8e-9353-fdff827472c9.png)   SCIENTIFIC AND ACADEMIC PRODUCTIVITY: 
+### ![200178874-a68f7e6d-adcf-4beb-9e4d-83f460c2f8ee](https://user-images.githubusercontent.com/109125203/202804680-f1278f47-8915-4b8e-9353-fdff827472c9.png)   PRODUCCIÓN ACADÉMICA Y CIENTÍFICA: 
 
 - Patentes, Congresos Internacionales y Artículos Publicados<br>
   Universidad Politécnica de Cataluña<br>
@@ -136,11 +136,11 @@ Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resol
 <a href="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=react&hide_border=false&include_all_commits=true&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeliaCerecedo&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
 </a>
-
+<!--
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DeliaCerecedo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeliaCerecedo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </a>
-
+-->
 <hr></hr>
 
 ### 🗂️ REPOSITORIOS:
@@ -149,7 +149,7 @@ Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resol
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Notes&theme=react"/>
 </a>
 <a href="https://github.com/DeliaCerecedo/Md-Links">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Md-Links&theme=reactsolarized-dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Md-Links&theme=react"/>
 </a>
 <a href="https://github.com/DeliaCerecedo/Social-Network">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Social-Network&theme=react"/>
