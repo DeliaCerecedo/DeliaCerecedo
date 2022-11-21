@@ -158,7 +158,7 @@ Las habilidades adquiridas fueron: aprender a ser creativa para plantear y resol
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Data-Lovers&theme=solarized-dark"/>
 </a>
 <a href="https://github.com/DeliaCerecedo/Cifrado-Cesar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Cifrado-Cesar&theme=react"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeliaCerecedo&repo=Cifrado-Cesar&theme=solarized-dark"/>
 </a>
 
 
