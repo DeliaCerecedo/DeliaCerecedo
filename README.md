@@ -29,14 +29,7 @@ Here are some ideas to get you started:
 
 ### 👩🏽‍💻 SOBRE MI:
 
-Soy mujer apasionada por crear soluciones de forma eficaz y eficiente para ayudar a personas. Por eso hice un
-doctorado con la especialidad en Ingeniería Biomédica donde realicé investigación que ayudará, principalmente, a
-personas de la tercera edad y/o discapacitados. Otra pasión en mi vida es transmitir el conocimiento y experiencias
-adquiridas a nuevas generaciones para que ellos aprovechen esa ventaja en pro de la humanidad, por lo que dediqué
-varios años de mi vida a la docencia donde aprendí de ellos a maravillarme y alegrarme por los primeros pasos al
-adquirir nuevo conocimiento. Ahora como Desarrolladora Front-end desarrollaré soluciones adecuadas a las
-necesidades de los usuarios con tanta pasión como lo hice en el pasado aplicando las habilidades adquiridas a lo largo
-de los años como investigadora y docente.
+Como desarrolladora Front-end mi principal visión es poder seguir aplicando las habilidades adquiridas a lo largo de mis años de experiencia como investigadora y docente para analizar una idea y/o un problema, crear y optimizar soluciones adecuadas a las necesidades de los usuarios.
 
 
 💻 Estoy abierta a colaborar en proyectos que tengan impacto social.
