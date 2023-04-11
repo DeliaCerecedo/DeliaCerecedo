@@ -34,7 +34,7 @@ Como desarrolladora Front-end mi principal visión es poder seguir aplicando las
 
 💻 Estoy abierta a colaborar en proyectos que tengan impacto social.
 
-👓 ¡Me encanta aprender cosas nuevas!! Actualmente estoy aprendiendo Nodo y React 
+👓 ¡Me encanta aprender cosas nuevas!! Actualmente estoy aprendiendo Nodo, React y SEO
 
 🏢 Actualmente estoy buscando una oportunidad de trabajo 🙌 
 
